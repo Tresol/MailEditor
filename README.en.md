@@ -4,7 +4,7 @@ The project has been open-sourced on [Github](http://github.com/Tresol/MailEdito
 
 [Tresol](http://github.com/Tresol) is the main contributer of the project, and my email is [tresol@163.com](tresol@163.com).
 
-The English translation is only for reference, and only Chinese version of the file takes effect.
+The English translation is only for reference, and only Chinese version of the file takes effect. [Chinese Version 中文文本](https://github.com/Tresol/MailEditor/blob/main/README.md)
 
 ### Introduction to the latest update(1.0.1)
 
