@@ -18,7 +18,7 @@ To learn more about previous versions, please refer to the [Update.md](https://g
 
 ### Functions
 
-The project aim to help employees to deliver their files needed to be printed to the Print Services in a more organized way.
+The project aims to help employees to deliver their files needed to be printed to the Print Services in a more organized way.
 
 ### Environment
 
