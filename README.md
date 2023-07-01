@@ -4,7 +4,7 @@
 
 [Tresol](http://github.com/Tresol)为项目负责人，电子邮件为[tresol@163.com](tresol@163.com)。
 
-英文翻译仅供参考。一切最终以中文文本为准。
+英文翻译仅供参考。一切最终以中文文本为准。[英文文本 English Version](https://github.com/Tresol/MailEditor/blob/main/README.en.md)
 
 ### 最新版本（1.0.1）更新说明
 最新版本为1.0.1版本，已于2023年6月30日更新。新版特性如下：
